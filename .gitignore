@@ -1,0 +1,22 @@
+# Archivos temporales de Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Archivos de respaldo
+*.zip
+
+# Configuración de VS Code
+.vscode/
+
+# Archivos de entorno virtual (si llegas a usar uno)
+env/
+venv/
+.venv/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos personales o de prueba
+*.log
